@@ -1,0 +1,2 @@
+# MPLS-Traffic-Engineering
+This project included the tasks of implementation by using LER nodes, LSR nodes and the workstations through Riverbed Opnet. Each of the nodes was configured as required by the project in order to achieve redundancy. The MPLS configuration was responsible for determining what task should MPLS LSP should perform and set the attributes required performing the task when packets were sent from source to destination. Please refer the files attached below.                         
